@@ -7,7 +7,8 @@ Assignment requested by PWC
 3. Output files will be place in **Data\Output** inside project folder
 4. Solution will archive the input file in this location **Data\Archive** inside project folder to be ready to receive other files
 
-A-Note- Solution designed to receive more than one file at once but please make sure to ensure unique names.
-B-Note- Solution developed as dynamic as possible and data can be modified easily through config file. Url Yahoo,File locations..etc
+Note- Solution designed to receive more than one file at once but please make sure to ensure unique names.
+
+Note- Solution developed as dynamic as possible and data can be modified easily through config file. Url Yahoo,File locations..etc
 
 Time taken for RPA solution: 4 hours
