@@ -26,6 +26,12 @@ The script robustly handles the following edge cases:
 1. **Input file not found**
    - Displays warn log message: "Error: No File found"
 
+## Assumptions
+Assumed that below data can be modified later, therefore placed in Config file for better maintenance and reusability.
+1. File paths.
+2. Required date format.
+3. Finance Yahoo portal url.
+
 ## Time taken
 4 hours
 
